@@ -1,1 +1,1 @@
-Built using Django, this API provides test video.
+Built using Django, this is a video API.
